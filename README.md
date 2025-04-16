@@ -1,6 +1,6 @@
-# Global-Electronics-Retailer
+# Global-Electronics-Retailer 
 
-I created four queries to thoroughly examine it and present my findings. A lot of information came out of it, as I wanted the analysis to be truly detailed.
+I created four queries in MySQL to thoroughly examine it and present my findings. A lot of information came out of it, as I wanted the analysis to be truly detailed.
 
 Query 1:
 
